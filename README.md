@@ -11,7 +11,7 @@
 
 ![Image text](src/main/resources/images/DelegatePattern.png)
 
-### 策略模式
+## 策略模式
  
  ### 定义
      
